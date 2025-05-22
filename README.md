@@ -19,11 +19,18 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 May 2025 - To: 21 May 2025
+From: 15 May 2025 - To: 22 May 2025
 
-Total Time: 0 secs
+Total Time: 36 mins
 
-No activity tracked
+Other        2 hrs 37 mins   ████████████████████▒░░░░   81.05 %
+Python       16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+HTML         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Java         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
