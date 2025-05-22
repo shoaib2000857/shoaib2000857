@@ -20,7 +20,7 @@ Here are some ideas to get you started: -->
 <!-- Automatically updated from WakaTime - will appear here once activity is tracked -->
 <!--END_SECTION:waka-->
 
-[![WakaTime](https://wakatime.com/badge/user/YOUR_USER_ID.svg)](https://wakatime.com/@YOUR_USERNAME)
+[![WakaTime](https://wakatime.com/badge/user/shoaibssm.svg)](https://wakatime.com/@shoaibssm)
 
 ---
 
