@@ -25,7 +25,6 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           STOP_AT_OTHER: false
-          IGNORED_LANGUAGES: JSON TOML YAML
 
           # Extra Insights
           SHOW_EDITORS: true
