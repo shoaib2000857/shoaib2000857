@@ -17,7 +17,15 @@ Here are some ideas to get you started: -->
 ## 📊 WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-<!-- Automatically updated from WakaTime - will appear here once activity is tracked -->
+
+```txt
+From: 14 May 2025 - To: 21 May 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/a85deef6-2e94-465d-998e-c54914c040a2.svg)](https://wakatime.com/@a85deef6-2e94-465d-998e-c54914c040a2)
