@@ -16,6 +16,15 @@ Here are some ideas to get you started: -->
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 21 May 2025 - To: 21 May 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
