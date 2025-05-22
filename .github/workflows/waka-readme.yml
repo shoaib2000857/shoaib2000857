@@ -1,9 +1,9 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at 12 AM UTC
+    - cron: "0 * * * *"  # Every hour
 
 jobs:
   update-readme:
@@ -14,26 +14,30 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
-          # Optional meta info
+          # Meta
           REPOSITORY: shoaib2000857/shoaib2000857
 
-          # Content display options
+          # Display Options
           SHOW_TITLE: true
           SECTION_NAME: waka
-          CODE_LANG: rust
-          TIME_RANGE: all_time
-          LANG_COUNT: 10
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 8
           SHOW_TIME: true
           SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: YAML JSON TOML
+          STOP_AT_OTHER: false
+          IGNORED_LANGUAGES: JSON TOML YAML
 
-          # Commit settings
-          COMMIT_MESSAGE: "Updated waka-readme graph with new metrics"
+          # Extra Insights
+          SHOW_EDITORS: true
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_CATEGORIES: true
+
+          # Commit Config
           TARGET_BRANCH: master
           TARGET_PATH: README.md
+          COMMIT_MESSAGE: "🔄 Updated WakaTime stats"
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com
           AUTHOR_NAME: Shoaib Sadiq Salehmohamed
-          AUTHOR_EMAIL: ${{ secrets.AUTHOR_EMAIL }} # Add this as a secret
+          AUTHOR_EMAIL: ${{ secrets.AUTHOR_EMAIL }}
