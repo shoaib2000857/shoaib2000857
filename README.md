@@ -19,18 +19,18 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2025 - To: 24 May 2025
+From: 18 May 2025 - To: 25 May 2025
 
-Total Time: 1 hr 44 mins
+Total Time: 1 hr 52 mins
 
-Other        7 hrs 21 mins   ████████████████████▒░░░░   80.82 %
-Python       37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-JavaScript   35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-HTML         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Java         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Batchfile    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Other        13 hrs 18 mins  ██████████████████████░░░   87.69 %
+Python       39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+JavaScript   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+HTML         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Java         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Batchfile    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
