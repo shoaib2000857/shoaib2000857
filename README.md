@@ -19,18 +19,18 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2025 - To: 31 May 2025
+From: 25 May 2025 - To: 01 June 2025
 
-Total Time: 3 hrs 51 mins
+Total Time: 3 hrs 46 mins
 
-Other         19 hrs 41 mins  █████████████████████░░░░   83.61 %
-Python        1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-TypeScript    47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-JavaScript    43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Image (svg)   41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-HTML          32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Bash          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Other         18 hrs 36 mins  ████████████████████▓░░░░   83.11 %
+Python        58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+TypeScript    47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Image (svg)   44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+JavaScript    43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+HTML          32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 Git           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+CSS           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
