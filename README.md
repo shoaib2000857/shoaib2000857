@@ -19,16 +19,16 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2025 - To: 08 June 2025
+From: 02 June 2025 - To: 09 June 2025
 
 Total Time: 59 mins
 
-Other        21 hrs 13 mins  ████████████████████████░   95.53 %
-HTML         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-TypeScript   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-C            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other        19 hrs 55 mins  ███████████████████████▓░   95.25 %
+HTML         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+TypeScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+C            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
