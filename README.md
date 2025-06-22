@@ -19,18 +19,18 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2025 - To: 21 June 2025
+From: 15 June 2025 - To: 22 June 2025
 
-Total Time: 3 hrs 14 mins
+Total Time: 1 hr 56 mins
 
-Other              19 hrs 56 mins  █████████████████████▓░░░   86.01 %
-Python             1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-Vue.js             39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-TypeScript         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-JavaScript         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Markdown           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-JSON               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-HTML               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Other        22 hrs 36 mins  ███████████████████████░░   92.07 %
+Python       48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+TypeScript   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Vue.js       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
