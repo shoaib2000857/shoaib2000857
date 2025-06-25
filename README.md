@@ -19,18 +19,16 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2025 - To: 24 June 2025
+From: 18 June 2025 - To: 25 June 2025
 
-Total Time: 1 hr 7 mins
+Total Time: 28 mins
 
-Other        25 hrs 11 mins  ████████████████████████░   95.73 %
-TypeScript   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-TeX          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-HTML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Vue.js       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other        22 hrs 59 mins  ████████████████████████▒   97.96 %
+TeX          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+TypeScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+HTML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Vue.js       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
