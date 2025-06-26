@@ -19,16 +19,16 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2025 - To: 25 June 2025
+From: 19 June 2025 - To: 26 June 2025
 
-Total Time: 28 mins
+Total Time: 33 mins
 
-Other        22 hrs 59 mins  ████████████████████████▒   97.96 %
-TeX          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-TypeScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-HTML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Vue.js       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other        19 hrs 40 mins  ████████████████████████▒   97.26 %
+TeX          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+HTML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Vue.js       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
