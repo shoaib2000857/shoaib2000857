@@ -19,18 +19,18 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2025 - To: 11 July 2025
+From: 05 July 2025 - To: 12 July 2025
 
-Total Time: 1 hr 45 mins
+Total Time: 2 hrs 56 mins
 
-Other        37 hrs 29 mins  ████████████████████████░   95.50 %
-Python       1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Markdown     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Vue.js       13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-CSS          11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other        34 hrs 4 mins   ███████████████████████░░   92.06 %
+Python       1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+JavaScript   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+CSS          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Markdown     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Vue.js       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
