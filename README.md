@@ -19,18 +19,18 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2025 - To: 31 July 2025
+From: 25 July 2025 - To: 01 August 2025
 
-Total Time: 5 hrs 56 mins
+Total Time: 4 hrs 18 mins
 
-Other              25 hrs 24 mins  ████████████████████▒░░░░   81.04 %
-HTML               2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-TypeScript         1 hr 57 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-JavaScript         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-CSS                19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Bash               15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-JSON               15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Python             9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Other              22 hrs 41 mins  █████████████████████░░░░   84.02 %
+HTML               1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+TypeScript         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+JavaScript         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Bash               16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+CSS                15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Python             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Vue.js             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
