@@ -100,8 +100,8 @@ When I’m not coding, you’ll find me exploring <i>AI concepts</i>, tinkering 
 ## 🌐 Connect with Me
 <p align="center">
   <a href="mailto:shoaibkulsums@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/shoaib-ssm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="http://shoaibssm.me"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shoaib-ssm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://shoaibssm.me"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 
