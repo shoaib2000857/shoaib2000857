@@ -41,7 +41,7 @@ When I’m not coding, you’ll find me exploring <i>AI concepts</i>, tinkering 
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=shoaib2000857&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=shoaib2000857&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shoaib2000857&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 
