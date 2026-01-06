@@ -45,16 +45,22 @@ When I’m not coding, you’ll find me exploring <i>AI concepts</i>, tinkering 
 </p>
 
 
-
 ## 🔥 Streak & Achievements
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib2000857&theme=tokyonight&hide_border=true" />
-</p>
-
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shoaib2000857&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=shoaib2000857&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=shoaib2000857&theme=tokyonight&no-frame=true&margin-w=15&column=6"
+    alt="GitHub Trophies"
+  />
+</p>
+
 
 
 <!-- Animated Gradient Divider -->
