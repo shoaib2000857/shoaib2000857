@@ -49,7 +49,7 @@ When I’m not coding, you’ll find me exploring <i>AI concepts</i>, tinkering 
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=shoaib2000857&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=shoaib2000857&theme=tokyonight"
     alt="GitHub Streak Stats"
   />
 </p>
