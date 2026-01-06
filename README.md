@@ -27,7 +27,7 @@ When I’m not coding, you’ll find me exploring <i>AI concepts</i>, tinkering 
 ## 📊 WakaTime Activity (Last 7 Days)
 <p align="center">
   <a href="https://wakatime.com/@a85deef6-2e94-465d-998e-c54914c040a2">
-    <img src="https://githubreadmestatsfast.vercel.app/api/wakatime?username=a85deef6-2e94-465d-998e-c54914c040a2&theme=tokyonight&layout=compact&hide_border=true" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=a85deef6-2e94-465d-998e-c54914c040a2&theme=tokyonight&layout=compact&hide_border=true" />
   </a>
 </p>
 
