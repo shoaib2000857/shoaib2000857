@@ -48,7 +48,7 @@ When I’m not coding, you’ll find me exploring <i>AI concepts</i>, tinkering 
 
 ## 🔥 Streak & Achievements
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=shoaib2000857&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=shoaib2000857&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
