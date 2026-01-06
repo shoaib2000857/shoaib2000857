@@ -61,17 +61,6 @@ When I’m not coding, you’ll find me exploring <i>AI concepts</i>, tinkering 
   />
 </p>
 
-## 🔥 Streak & Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/shoaib2000857?style=for-the-badge&logo=github&color=7aa2f7" />
-  <img src="https://img.shields.io/github/followers/shoaib2000857?style=for-the-badge&logo=github&color=bb9af7" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/shoaib2000857?style=for-the-badge&color=9ece6a" />
-  <img src="https://img.shields.io/github/last-commit/shoaib2000857/shoaib2000857?style=for-the-badge&color=f7768e" />
-</p>
 
 
 
